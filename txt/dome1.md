@@ -1,3 +1,1 @@
-这是我用node.js创建的博客
-success
-asfdse
+git add .
